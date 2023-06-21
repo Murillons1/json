@@ -1,0 +1,13 @@
+body{
+    background-color: whitesmoke;
+    color:black;
+}
+input,button{
+    background-color: white;
+    font-size: 1.0rem;
+    color: black;
+}
+
+*{
+    text-align: center;
+}
